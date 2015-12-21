@@ -21,3 +21,6 @@ Contenidos
 
 .. toctree::
    :maxdepth: 2
+
+   introduccion
+   organizacion
