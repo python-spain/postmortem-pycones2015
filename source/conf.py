@@ -50,8 +50,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Memoria PyConES 2015'
-copyright = '2015, Juan Luis Cano, Marcos Gabarda, Mayte Giménez, Javier Palanca'
-author = 'Juan Luis Cano, Marcos Gabarda, Mayte Giménez, Javier Palanca'
+copyright = u'2015, Juan Luis Cano, Marcos Gabarda, Mayte Giménez, Javier Palanca'
+author = u'Juan Luis Cano, Marcos Gabarda, Mayte Giménez, Javier Palanca'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
