@@ -85,7 +85,7 @@ se propuso dicha división::
 
 Durante los meses previos a la conferencia se celebraron videollamadas una o dos veces al mes, de media hora a una
 hora de duración, para poner tomar decisiones más complejas, avanzar más deprisa en los asuntos complicados y decidir
-las acciones futuras.
+las acciones futuras. Para ello se utilizó https://appear.in o Google Hangouts cuando el primero fallaba.
 
 La organización de las tareas concretas se hizo a través de Trello (por familiaridad con años anteriores) y a través
 del email, en listas de correo privadas proporcionadas por la Asociación.

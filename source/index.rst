@@ -23,4 +23,8 @@ Contenidos
    :maxdepth: 2
 
    introduccion
+   evento
    organizacion
+   sede
+   patrocinadores
+   feedback
