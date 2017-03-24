@@ -27,4 +27,11 @@ Contenidos
    organizacion
    sede
    patrocinadores
+   finanzas
+   logistica
+   contenidos
+   comunicacion
+   asociacion
    feedback
+   posterior
+   conclusiones

@@ -38,6 +38,16 @@ Fechas
     * Agosto: mes muerto en el momento de mayor incertidumbre
     * Condiciona el momento de pedir dinero a los patrocinadores, que debe ser a principios de año
 
+El horario del evento es siempre motivo de suspicacias: unas personas prefieren fin de semana
+mientras que otras prefieren entre semana. Teniendo en cuenta lo mencionado más arriba se optó
+como los años anteriores por celebrar la PyConES 2015 en fin de semana, con el objetivo de:
+
+  * Facilitar a los asistentes el desplazamiento
+  * Ahorrar a aquellos que trabajen negociaciones con sus empleadores (formación, vacaciones)
+  * Favorecer la afluencia de estudiantes de otros lugares del país
+
+Esta decisión tiene un impacto notable en los costes organizativos (ver :ref:`Sede`).
+
 Filosofía del evento
 --------------------
 
